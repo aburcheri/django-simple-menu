@@ -13,4 +13,4 @@ Installing django-simple-menu
    setting includes ``django.core.context_processors.request``, which it
    doesn't by default.
 
-
+#. In Django 3.0.^ TEMPLATE_CONTEXT_PROCESSORS must include ''django.template.context_processors.request'',
